@@ -1,2 +1,2 @@
-# photo-site-yii2
+# photo-site
 Photographer's site
